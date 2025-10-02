@@ -95,5 +95,29 @@
   <ItemGroup>
     <None Include="Resources\Kanto Map for program.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bulbasaur stats.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\375px-0002Ivysaur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2024-09-03 223412.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Venusaur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\venusaur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004 Charmander.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Charmander.Stats.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
